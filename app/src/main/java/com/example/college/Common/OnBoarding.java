@@ -19,6 +19,7 @@ public class OnBoarding extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_on_boarding);
 
+
         //Hooks
         viewPager = findViewById(R.id.slider);
         dots = findViewById(R.id.dots);
