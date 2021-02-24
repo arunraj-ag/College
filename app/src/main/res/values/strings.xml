@@ -8,17 +8,19 @@
     <!-- String for On Boarding Screen-->
 
     <string name="first_slide_title">A mobile Companion for AUBIT</string>
-    <string name="seond_slide_title">Integrated Poll and Attendance</string>
+    <string name="seond_slide_title">Integrated Voting and Attendance</string>
 
     <!-- String for Description-->
 
     <string name="first_slide_desc">Using this you can access what\'s happening in our college</string>
-    <string name="second_slide_desc">You can mark your attendance using AUBIT and you can answer your opinions to polls in College</string>
+    <string name="second_slide_desc">You can mark your attendance using AUBIT and you can vote your opinions to decisions in College</string>
 
     <!-- Buttons-->
     <string name="skip_btn">Skip</string>
     <string name="next_btn">Next</string>
     <string name="let_get_started">Lets Get Started</string>
     <string name="splash_img_view">splash_img_view</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="a_slider_img">A Slider Image</string>
 
 </resources>

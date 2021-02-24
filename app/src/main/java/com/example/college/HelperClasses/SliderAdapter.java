@@ -23,7 +23,7 @@ public class SliderAdapter extends PagerAdapter{
 
     int[] images ={
             R.drawable.mobile_comp,
-            R.drawable.polling,
+            R.drawable.thumb_up,
     };
     int[] headings ={
             R.string.first_slide_title,
