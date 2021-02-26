@@ -11,4 +11,9 @@
     <color name="colorPrimary">#011C38</color>
     <color name="ColorPrimaryDark">#bbbbbb</color>
     <color name="ColorAccent">#ffe3d8</color>
+
+    <color name="card_one_userdash">#D2B2D8</color>
+    <color name="card_two_userdash">#B3C7D8</color>
+    <color name="card_three_userdash">#DDB6C3</color>
+    <color name="card_four_userdash">#DAD4AB</color>
 </resources>
